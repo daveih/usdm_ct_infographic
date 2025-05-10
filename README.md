@@ -1,2 +1,5 @@
-# usdm_ct_infographic
-Infographic showing use of USDM CT
+# USDM CT inforgraphic
+
+## Purpose
+
+Infographic showing the USDM CT in the context of the model
